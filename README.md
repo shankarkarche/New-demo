@@ -1,3 +1,3 @@
 # New-demo
 This is my first repository.
-authored : SK 
+authored : SK(new-demo)
